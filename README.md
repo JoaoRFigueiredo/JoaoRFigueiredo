@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-[<div id="header" align="center">
- [ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGlrNG1sNDI3cmhyY3E3OGVncXFvcTlkbGRnOTEzNmxpOXZ3NHhqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif" width="200"/>](http://www.nick.com/spongebob-squarepants)
-</div>](http://www.nick.com/spongebob-squarepants)
+<iframe src="https://giphy.com/embed/3o6wNIV9FP28JIleyk" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/spongebob-spongebob-squarepants-season-6-3o6wNIV9FP28JIleyk">via GIPHY</a></p>
 
 <!--
 **JoaoRFigueiredo/JoaoRFigueiredo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
