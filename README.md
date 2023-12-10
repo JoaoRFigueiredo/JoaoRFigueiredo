@@ -2,7 +2,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/spongebob-spongebob-squarepants-season-6-3o6wNIV9FP28JIleyk" width="200"/>
+  <img src="https://media3.giphy.com/media/3o6wNIV9FP28JIleyk/giphy.gif?cid=ecf05e47mtcw4ejqzcebkrzlgmjnecz8xwsepn4fow0yrua9&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200"/>
 </div>
 <!--
 **JoaoRFigueiredo/JoaoRFigueiredo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
